@@ -127,7 +127,7 @@ $ yarn add typeorm pg
 ```json
 {
   "type": "postgres",
-  "host": "192.168.99.100",
+  "host": "localhost",
   "port": 5432,
   "username": "postgres",
   "password": "docker",
@@ -695,7 +695,7 @@ $ yarn add cors
 - Acesse a pasta
 - Faça o clone do projeto
 ```
-$ git clone https://github.com/fabiosvf/bootcamp-gostack-11-nivel-02-iniciando-back-end-do-app.git .
+$ git clone git@github.com:DavilsonJunior/GoBarberServer.git
 ```
 - Atualize as bibliotecas
 ```
